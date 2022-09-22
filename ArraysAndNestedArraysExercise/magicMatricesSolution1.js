@@ -32,8 +32,8 @@ function magicMatrices(matrix){
 
     
 
-    console.log(sumOfColsAndRows);
-    console.log(result);
+    //console.log(sumOfColsAndRows);
+    //console.log(result);
     console.log(arraysEqual(sumOfColsAndRows, result));
 }
 
