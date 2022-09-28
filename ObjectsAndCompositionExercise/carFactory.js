@@ -35,7 +35,7 @@ function solve(data){
         res.wheels = [data.wheelsize, data.wheelsize, data.wheelsize, data.wheelsize]
     }
 
-    console.table(res);
+    return res;
 }
 
 solve({ model: 'VW Golf II',
